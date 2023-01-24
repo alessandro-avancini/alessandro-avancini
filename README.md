@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Alessandro Avancini</h1>
-<h1 align="center">Hi 👋, I'm Alessandro Avancini</h1>
 <h3 align="center">Programmer looking forward to build strong and creative solutions based on data</h3>
 
 - 🔭 I’m currently working at **Brazilian Space Agency as Intern Data Analyst**
